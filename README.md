@@ -256,7 +256,6 @@ Features:
 
 **Missing value sentinel:** NASA POWER uses `-999` (replace with `np.nan`)
 
----
 
 ## Analytical Framework
 
