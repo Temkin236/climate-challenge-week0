@@ -388,7 +388,6 @@ Every chart must answer progressively:
 - **Git Guide:** https://git-scm.com/doc
 - **Streamlit Docs:** https://docs.streamlit.io/
 
----
 
 ## Contact & Support
 
