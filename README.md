@@ -140,7 +140,6 @@ Visit: https://power.larc.nasa.gov/
 
 ⚠️ **Important:** Do NOT commit data files. `data/` is in `.gitignore`.
 
----
 
 ## Task Breakdown
 
